@@ -1,0 +1,186 @@
+[
+    {
+       "id":393912,
+       "name":"Hardsession",
+       "day":"mon",
+       "hour":0,
+       "end_time":8,
+       "description":"Techno, Trance, Goa, Hardstyle"
+    },
+    {
+       "id":393910,
+       "name":"Housesession",
+       "day":"mon",
+       "hour":8,
+       "end_time":18,
+       "description":"Von House zu Progressive House"
+    },
+    {
+       "id":393909,
+       "name":"Clubsession",
+       "day":"mon",
+       "hour":18,
+       "end_time":0,
+       "description":"Clubmusik gepaart mit Elektro und Dance"
+    },
+    {
+       "id":393912,
+       "name":"Hardsession",
+       "day":"tue",
+       "hour":0,
+       "end_time":1,
+       "description":"Techno, Trance, Goa, Hardstyle"
+    },
+    {
+       "id":393909,
+       "name":"Clubsession",
+       "day":"tue",
+       "hour":1,
+       "end_time":10,
+       "description":"Clubmusik gepaart mit Elektro und Dance"
+    },
+    {
+       "id":393910,
+       "name":"Housesession",
+       "day":"tue",
+       "hour":10,
+       "end_time":22,
+       "description":"Von House zu Progressive House"
+    },
+    {
+       "id":393912,
+       "name":"Hardsession",
+       "day":"tue",
+       "hour":22,
+       "end_time":0,
+       "description":"Techno, Trance, Goa, Hardstyle"
+    },
+    {
+       "id":393912,
+       "name":"Hardsession",
+       "day":"wed",
+       "hour":0,
+       "end_time":8,
+       "description":"Techno, Trance, Goa, Hardstyle"
+    },
+    {
+       "id":393910,
+       "name":"Housesession",
+       "day":"wed",
+       "hour":8,
+       "end_time":16,
+       "description":"Von House zu Progressive House"
+    },
+    {
+       "id":393909,
+       "name":"Clubsession",
+       "day":"wed",
+       "hour":16,
+       "end_time":0,
+       "description":"Clubmusik gepaart mit Elektro und Dance"
+    },
+    {
+       "id":393912,
+       "name":"Hardsession",
+       "day":"thu",
+       "hour":0,
+       "end_time":7,
+       "description":"Techno, Trance, Goa, Hardstyle"
+    },
+    {
+       "id":393909,
+       "name":"Clubsession",
+       "day":"thu",
+       "hour":7,
+       "end_time":13,
+       "description":"Clubmusik gepaart mit Elektro und Dance"
+    },
+    {
+       "id":393910,
+       "name":"Housesession",
+       "day":"thu",
+       "hour":13,
+       "end_time":20,
+       "description":"Von House zu Progressive House"
+    },
+    {
+       "id":393909,
+       "name":"Clubsession",
+       "day":"thu",
+       "hour":20,
+       "end_time":0,
+       "description":"Clubmusik gepaart mit Elektro und Dance"
+    },
+    {
+        "id":393909,
+        "name":"Clubsession",
+        "day":"fri",
+        "hour":0,
+        "end_time":6,
+        "description":"Clubmusik gepaart mit Elektro und Dance"
+     },
+    {
+       "id":393909,
+       "name":"Clubsession",
+       "day":"fri",
+       "hour":6,
+       "end_time":13,
+       "description":"Clubmusik gepaart mit Elektro und Dance"
+    },
+    {
+       "id":393910,
+       "name":"Housesession",
+       "day":"fri",
+       "hour":13,
+       "end_time":18,
+       "description":"Von House zu Progressive House"
+    },
+    {
+       "id":393912,
+       "name":"Hardsession",
+       "day":"fri",
+       "hour":18,
+       "end_time":0,
+       "description":"Techno, Trance, Goa, Hardstyle"
+    },
+    {
+        "id":393912,
+        "name":"Hardsession",
+        "day":"sat",
+        "hour":0,
+        "end_time":6,
+        "description":"Techno, Trance, Goa, Hardstyle"
+     },
+    {
+       "id":393910,
+       "name":"Housesession",
+       "day":"sat",
+       "hour":6,
+       "end_time":15,
+       "description":"Von House zu Progressive House"
+    },
+    {
+       "id":393909,
+       "name":"Clubsession",
+       "day":"sat",
+       "hour":15,
+       "end_time":0,
+       "description":"Clubmusik gepaart mit Elektro und Dance"
+    },
+    {
+        "id":393909,
+        "name":"Clubsession",
+        "day":"sun",
+        "hour":0,
+        "end_time":17,
+        "description":"Clubmusik gepaart mit Elektro und Dance"
+     },
+    {
+       "id":393910,
+       "name":"Housesession",
+       "day":"sun",
+       "hour":17,
+       "end_time":0,
+       "description":"Von House zu Progressive House"
+    }
+ ]
